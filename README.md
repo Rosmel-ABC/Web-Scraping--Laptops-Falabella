@@ -1,4 +1,4 @@
-<h2 align="center">Extracción de Datos (Scraping) con BeautifulSoup y Selenium</h2>
+<h2 align="center">Extracción de Datos (Web Scraping) con BeautifulSoup y Selenium</h2>
 
 ---
 
